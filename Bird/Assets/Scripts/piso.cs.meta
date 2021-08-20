@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 84c1d0cc4aaf5b64b983269e326711b7
+guid: 04c08350d39c4454cb135a760794792b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - directorJuego: {instanceID: 0}
-  - wing_bird: {fileID: 8300000, guid: 4c991a385d1b12946ba16ec371e30c08, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
