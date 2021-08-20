@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Secundario.unity
     guid: d6f64d841537b6b4aaa554bd9a609e43
+  - enabled: 1
+    path: Assets/Scenes/Tercero.unity
+    guid: 4cc71bac89177ac4fbfe9d9640fe7ecb
   m_configObjects: {}
